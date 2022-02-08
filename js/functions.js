@@ -149,5 +149,33 @@ Amplitude.init({
 			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/IMT-S1.jpg"
 		},
 		
+		{
+			"name": "Essence Extraction Pills",
+			"artist": "Simon Ton",
+			"album": "Immortal Season 1",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/Immortal/2m07_EssenceExtractionPills.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/IMT-S1.jpg"
+		},
+		{
+			"name": "Feral Wolf Gang",
+			"artist": "Simon Ton",
+			"album": "Immortal Season 1",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/Immortal/2m08_FeralWolfGang.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/IMT-S1.jpg"
+		},
+		{
+			"name": "Sneak Attack",
+			"artist": "Simon Ton",
+			"album": "Immortal Season 1",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/Immortal/4m02_SneakAttack.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/IMT-S1.jpg"
+		},
+		{
+			"name": "To the Rescue",
+			"artist": "Simon Ton",
+			"album": "Immortal Season 1",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/Immortal/7m05_totherescue.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/IMT-S1.jpg"
+		}
 	]
 });
