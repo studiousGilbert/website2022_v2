@@ -126,7 +126,28 @@ Amplitude.init({
 			"album": "Rogue-like-like-like: Tower of Choice",
 			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/rlll_xmas_v1.mp3",
 			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
-		}
+		},
+		{
+			"name": "Spider Fight",
+			"artist": "Simon Ton",
+			"album": "Immortal Season 2",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/Immortal/4m01_SpiderFight.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/IMT-S2.jpg"
+		},
+		{
+			"name": "Traitor",
+			"artist": "Simon Ton",
+			"album": "Immortal Season 2",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/Immortal/4m02_Traitor.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/IMT-S2.jpg"
+		},
+		{
+			"name": "Goodbye",
+			"artist": "Simon Ton",
+			"album": "Immortal Season 1",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/Immortal/7m07_Goodbye.mp3",
+			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/IMT-S1.jpg"
+		},
 		
 	]
 });
