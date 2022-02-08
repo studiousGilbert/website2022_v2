@@ -100,7 +100,7 @@ Amplitude.init({
 			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		},
 		{
-			"name": "ima firin mah lazor!",
+			"name": "LASTLY SLAYER",
 			"artist": "Simon Ton",
 			"album": "Rogue-like-like-like: Tower of Choice",
 			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/LastlySlayer_Phase2_v6_ListeningDemo.mp3",
