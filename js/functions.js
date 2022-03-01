@@ -68,7 +68,7 @@ Amplitude.init({
 			"name": "Main Theme",
 			"artist": "Simon Ton",
 			"album": "Rogue-like-like-like: Tower of Choice",
-			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/DoC_TitleScreen_11162020.mp3",
+			"url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/RLLL+mp3/RLLL_Title_220301.mp3",
 			"cover_art_url": "https://gilbert-website-2022-audio-images.s3.amazonaws.com/rlll618.jpg"
 		},
 		{
